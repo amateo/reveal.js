@@ -23,4 +23,4 @@
 ## Control de versiones
 ### VCS centralizado
 
-<img src="img/centralized.png" width="90%">
+<img class="stretch" src="img/centralized.png" >
