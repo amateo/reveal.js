@@ -1,5 +1,5 @@
 ## Introducción a Git
-### Ángel L. Mateo (amateo at um.es)
+- Slide de presentación
 
 ---
 
